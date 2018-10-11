@@ -1,4 +1,6 @@
-## This is my new repo
+## New repo
 
-Here is the description!
+Here is my description!
+
+And some other stuff!
 
